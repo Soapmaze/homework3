@@ -71,6 +71,7 @@ public class homework3_3 {
 			}
 		}
 		
+		s.close();
 		output();
 	}
 	
